@@ -55,7 +55,7 @@ public class Itse2417Main
             new FinalProj(),          // Kline
             new FinalProj(),          // Koranda
             new FinalProj(),          // Pokluda
-            new FinalProj(),          // Rascon
+            new RasconMenu(),          // Rascon
             new FinalProj(),          // Rodriguez
             new FinalProj(),          // Subba
             new FinalProj(),          // Terrell
